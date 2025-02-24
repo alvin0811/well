@@ -1,0 +1,1 @@
+enum LoginNavigation { home, signup }

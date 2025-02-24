@@ -1,0 +1,4 @@
+enum WeightLossSettingNavigation {
+  setting,
+  bmi,
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245873703167",
+    "project_id": "body-vitals-a4742",
+    "storage_bucket": "body-vitals-a4742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245873703167:android:1aa340f4b93ada1a81f4ca",
+        "android_client_info": {
+          "package_name": "com.bodyvitals.android.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2nZ-8Xcs-GrvGbHkP1qegjBRIufcpFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+enum LoginWithTouchIdNavigation {
+  home,
+}
